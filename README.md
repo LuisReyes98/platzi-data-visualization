@@ -339,8 +339,65 @@ Contar historias (storytelling) con nuestros datos es una manera maravillosa par
 
 Para poder identificar a un gran contador de historias simplemente debemos pensar en esas personas, maestros, científicos o amigos que son capaces de relatar sucesos con una sencillez que nos mantienen enganchados en todo momento y de quienes podemos aprender mucho.
 
+[Tips para el Story telling con los datos](https://evolytics.com/blog/1-know-your-audience/)
+
 ## ¿Cómo afecta la visualización de datos en tu negocio?
 
 recordar siempre buscar reducir la carga cognitiva
 
 lo que no se puede medir no se puede mejorar
+
+### Reto
+
+Comenta cómo te ayudó o cómo te podría ayudar la visualización de datos para:
+
+- Comunicar resultados a la dirección y gerencia de la empresa
+- Comunicar nuestros objetivos con compañeros y el resto del equipo
+- Comunicarte a ti mismo la eficiencia y mejora en tus propios objetivos
+
+La visualización de datos efectiva nos ayuda a:
+
+- nos ayuda  a que direccion y gerencia entiendan claramente el mensaje que buscamos transmitirles y la conclusion a la que llegamos tras analizar los datos
+- nos permite que nuestro mensaje sea claro y facil de interpretar por lo cual miembros de nuestro equipo pueden facilmente estar al dia con la información que estamos trabajando
+- Nos permite comunicar de mejor manera lo que pensamos, inclusive nos permite poner en palabras conclusiones a las que no podiamos llegar sin verlas plamadas en una forma mas comprensible como una grafica
+
+**Notas estudiante David Josué Paz Ordoñez**
+Cómo la data visualization beneficia a diferentes áreas laborales:
+
+Marketing
+Con data visualization, puedes ver si tu estrategia de marketing funciona a través de visualizaciones de las tendencias de tráfico a tu página web en cierto tiempo. También puedes monitorear campañas específicas y las diferentes métricas.
+
+Logística
+La logística se sirve de las visualizaciones para localizar mejores rutas de envío, cuál zona de la ciudad tiene menos tránsito, comparar tiempos de entrega, entre otras cosas.
+
+Finanzas
+Como financiero, puedes realizar el seguimiento de cómo se desempeñan tus diferentes decisiones en cuanto a compra y venta de activos. Puedes analizar el movimiento de los precios y predecir situaciones futuras.
+
+Investigaciones científicas
+La visualización de datos es muy útil para comprender datos experimentales, identificar patrones, comparar variables en el tiempo, cómo cambió cierto valor antes y después de un experimento.
+
+## Explora, descubre, pregunta: toma decisiones inteligentes con análisis de datos
+
+como agregar valor a los datos?
+
+los datos por si solos son numeros y letras
+
+nosotros le agregamos valor a los datos
+para lo cual es importante agregar información relevante que nos apoye para alcanzar objetivos, plantear metas y tomar desiciones
+
+Explora, descubre y pregunta
+
+Es muy importante explorar los datos ya que en la verdad de ellos podemos ver si nuestras hipotesis estan en lo correcto
+
+Descubre en los datos información relevante
+
+Pregunta a nosotros mismos porque los datos se comportan de esta forma o llegan a estas conclusiones, hacer este tipo de preguntas y mas nos permite llegar a informacion que nos ayuda a darle forma a la historia que queremos contar con los datos.
+
+El Trabajo en Equipo es sumamente importante
+
+Toma de decisiones
+Pemitir que los datos nos ayude a la Toma de decisiones debe ser de los objetivos principales
+
+### Reto
+
+Aplicar el analisis de datos en la base de datos adjunta de superstore
