@@ -401,3 +401,7 @@ Pemitir que los datos nos ayude a la Toma de decisiones debe ser de los objetivo
 ### Reto
 
 Aplicar el analisis de datos en la base de datos adjunta de superstore
+
+[ejemplo de clase google data studio](https://datastudio.google.com/u/0/reporting/ffc0ac93-19b6-4b11-80ea-8c9d294523e1/page/PbA4B)
+
+[mi analisis con google data studio](https://datastudio.google.com/reporting/b7ba41ed-a340-4744-86e0-04e3d4f2fa03)
