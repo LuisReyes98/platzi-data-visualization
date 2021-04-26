@@ -405,3 +405,51 @@ Aplicar el analisis de datos en la base de datos adjunta de superstore
 [ejemplo de clase google data studio](https://datastudio.google.com/u/0/reporting/ffc0ac93-19b6-4b11-80ea-8c9d294523e1/page/PbA4B)
 
 [mi analisis con google data studio](https://datastudio.google.com/reporting/b7ba41ed-a340-4744-86e0-04e3d4f2fa03)
+
+## Caso Walmart: integra visualización de datos y Big Data con inteligencia de negocios
+
+El Bussiness Inteligence se enfoca mucho en la Data Visualization
+
+BI en el data science
+
+el BI puede interpretar los resultados de los experimentos de Data Science
+
+https://www.youtube.com/watch?v=hDJdkcdG1iA
+
+### Reto
+
+¿Qué es Business Intelligence?
+
+Es el uso de graficas, Data Viz y Story Telling en conjunto con grandes conjuntos de datos, con el objetivo de poder llevarlos a un lenguaje entendible por los humanos, permitiendo asi observar la verdad que hay en los datos , interpretarlos y permitir sacar conclusiones de los mismos que nos ayuden a la toma de desiciones.
+
+¿Cómo se relaciona el Business Intelligence con la ciencia y visualización de datos?
+
+El BI se relaciona con la ciencia de datos ya que los resultados de los experimentos de Data Science son entendibles por el Cientifico de Datos que los realizo y con el BI lleva estos resultados a un lenguage ententible por todas las personas.
+
+El BI se relaciona con la visualización de datos ya que la visualización de datos es una de las herramientas principales y mas utiles a la hora de hacer un Data Biz.
+
+## Recolección de datos
+
+https://www.youtube.com/watch?v=bAyrObl7TYE
+
+la informacion a analizar suele ser muy diversa
+
+pueden ser base de datos publicas o privadas
+
+de hacerse un proyecto sobre una base privada debe pedirse permiso de forma explicita
+
+bases de datos publicas
+
+- https://data.worldbank.org/
+- https://www.kaggle.com/datasets
+- https://www.datos.gov.co/
+
+puede ser informacion estructurada o no estructurada
+
+pueden estar en distintos tipos de archivos y/o fuentes de archivos
+
+### Retos
+
+¿Qué base de datos te gustaría analizar como proyecto personal para tu portafolio personal?
+
+Me gustaria analizar bases de datos de los resultados tras las acciones tomadas para ayudar al medio ambiente y mitigar el calentamiento global
