@@ -448,8 +448,60 @@ puede ser informacion estructurada o no estructurada
 
 pueden estar en distintos tipos de archivos y/o fuentes de archivos
 
+⭐Equipo, aquí les van unas páginas geniales para descargar DATASETS. ⭐
+.
+🔵 Hay algunos de la NASA, otros de Maxar, Kaggle, o la Agencia Espacial Europea. 🔵
+
+data.nasa.gov
+www.makeovermonday.co.uk/data/
+maxar.com
+podaac.jpl.nasa.gov/datasetlist
+science.nasa.gov/citizenscience
+kaggle.com/datasets
+developers.google.com/earth-engine/datasets
+.
+Y un blog con más: interviewqs.com/blog/free-online-data-sets
+
 ### Retos
 
 ¿Qué base de datos te gustaría analizar como proyecto personal para tu portafolio personal?
 
 Me gustaria analizar bases de datos de los resultados tras las acciones tomadas para ayudar al medio ambiente y mitigar el calentamiento global
+
+## Limpieza de datos
+
+Es uno de los procesos principales para lograr analizar los datos
+
+Es el proceso de estandarizar la estructura y datos de nuestra fuente de datos para que nuestro software pueda analizarlos apropiadamente
+
+**GIGO/RIRO**
+Garbage In Garbage Out
+
+**Preparacion**
+Se acomoda toda la informacion para que este lista para ser utilizada en cualquier analisis o visualizacion
+
+### Reto
+
+¿Qué herramienta te permite realizar limpieza de datos?
+
+En python uso librerias como pandas y numpy, que permiten facilmente realizar funciones sobre todo el conjunto de datos a pesar de que sean un conjunto de datos de gran tamaño.
+
+## Exploración de datos
+
+Es uno de los procesos donde mas se enfocara nuestro tiempo
+
+Descubre, pregunta, reformula, analiza
+
+Cuenta historias
+
+Es en este parte del proceso es cuando nuestras hipotesis seran confirmadas o negadas, asi permitiendonos llegar mas a la verdad.
+
+Evita errores de sesgo, parcialidad, o hacer cherry picking enfoncandote en solo una fraccion del total de datos
+
+### Reto
+
+¿Cuáles son los tipos de datos con los que más estás familiarizado?
+
+...
+
+##
