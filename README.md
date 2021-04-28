@@ -488,20 +488,72 @@ En python uso librerias como pandas y numpy, que permiten facilmente realizar fu
 
 ## Exploración de datos
 
-Es uno de los procesos donde mas se enfocara nuestro tiempo
+Es un proceso muy importante donde concentraremos la mayoria de nuestro tiempo
 
 Descubre, pregunta, reformula, analiza
 
 Cuenta historias
 
-Es en este parte del proceso es cuando nuestras hipotesis seran confirmadas o negadas, asi permitiendonos llegar mas a la verdad.
+Es en este parte del proceso cuando nuestras hipotesis seran confirmadas o negadas, asi permitiendonos llegar mas a la verdad.
 
 Evita errores de sesgo, parcialidad, o hacer cherry picking enfoncandote en solo una fraccion del total de datos
+
+También es importante no detenernos al encontrar algo que no nos gusta, recordemos, la información habla, nosotros solo somos los intermediarios.
+
+https://public.tableau.com/profile/luis.novelo6593#!/vizhome/week1_15944308284500/Hoja1
+
+https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e
 
 ### Reto
 
 ¿Cuáles son los tipos de datos con los que más estás familiarizado?
 
-...
+Los datos con los que estoy mas familiarizado son los datos de precios y ventas de tiendas y empresas Debido a que son los tipos de datos que mas suelo analizar para aprender ciencia de datos
 
-##
+## Creación de gráficas y visualizaciones
+
+¿ Qué quiero comunicar ?
+
+que se adapta mejor a mi mensaje ?
+
+Quien es mi audiencia ? Cual es el lenguaje que mejor se adapta a ellos
+
+No olvides las buenas practicas
+
+### Reto
+
+¿ Cuales son los tipos de graficas correctas para comunicar tus hallazgos sobre Super Store Data ?
+
+- graficas de barra para ver las categorias y subcateforias mas vendidas
+
+- graficas de barra para ver los mejores clientes
+
+- scatter plots para ver la correlacion entre sales, profit y discount
+
+- graficas de mapa para ver las zonas con mejores ventas, peores ventas, y mayores descuentos
+
+- graficas de dona, barra y lineales para ver en que trimestres del año hay mayores ventas y profit
+
+- graficas de barra y scatter plots para ver en que meses hay mayores ventas y profit
+
+[Graficas en google data studio](https://datastudio.google.com/reporting/b7ba41ed-a340-4744-86e0-04e3d4f2fa03)
+
+## Generación de reportes con storytelling
+
+¿ Que son los reportes ?
+
+Son un aconglomerado de las mejores data visualizations obtenidas del analisis, que mejor entregan el mensaje, que se muestran en un lugar para permitir facilmente la toma de desiciones
+
+¿ Para que son los reportes ?
+
+para permitir que los altos mandos tomen las desiciones mas rapida y efectivamente
+
+Concentra tus resultados
+
+Mayor Retencion por menos Esfuerzo, reduciendo la carga cognitiva
+
+### Reto
+
+¿ Que son los reportes ?
+
+Haz un reporte sobre tus hallazgos de Super Store Data
