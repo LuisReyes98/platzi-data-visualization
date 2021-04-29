@@ -557,3 +557,35 @@ Mayor Retencion por menos Esfuerzo, reduciendo la carga cognitiva
 ¿ Que son los reportes ?
 
 Haz un reporte sobre tus hallazgos de Super Store Data
+
+## Define objetivos SMART con KPIs o Key Performance Indicators
+
+Key Performance Indicator
+
+Lo que no podemos medir no lo podemos mejorar
+
+¿ que es un KPI ?
+
+https://platzi.com/blog/key-performance-indicators/
+
+https://www.youtube.com/watch?v=syI-oRnjROU
+
+Que son los KPI ?
+
+Algunas de las métricas más populares para medir el impacto que diferentes acciones y estrategias están teniendo en tu negocio son los KPI, que significa “Key Performance Indicators”; en español “indicadores claves de desempeño”, es decir, aquellas variables, factores o unidades de medida que consideramos “estratégicas” en nuestra empresa, y que por ende influyen directamente en las decisiones que tomemos respecto a ella.
+
+Recuerda S.M.A.R.T.
+
+- S: especificos
+- M: Medible
+- A: alcanzables
+- R: Relevantes
+- T: Escalable en el tiempo
+
+### Reto
+
+Escribe una propuesta de KPIs para:
+
+- Tu negocio (general de toda la empresa)
+- Tu equipo (más específico de tu área)
+- Ti mismo (uno personal y otro profesional)
