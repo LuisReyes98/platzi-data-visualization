@@ -452,13 +452,13 @@ pueden estar en distintos tipos de archivos y/o fuentes de archivos
 .
 🔵 Hay algunos de la NASA, otros de Maxar, Kaggle, o la Agencia Espacial Europea. 🔵
 
-data.nasa.gov
-www.makeovermonday.co.uk/data/
-maxar.com
-podaac.jpl.nasa.gov/datasetlist
-science.nasa.gov/citizenscience
-kaggle.com/datasets
-developers.google.com/earth-engine/datasets
+https://data.nasa.gov
+https://www.makeovermonday.co.uk/data/
+https://maxar.com
+https://podaac.jpl.nasa.gov/datasetlist
+https://science.nasa.gov/citizenscience
+https://kaggle.com/datasets
+https://developers.google.com/earth-engine/datasets
 .
 Y un blog con más: interviewqs.com/blog/free-online-data-sets
 
@@ -582,6 +582,15 @@ Recuerda S.M.A.R.T.
 - R: Relevantes
 - T: Escalable en el tiempo
 
+SMART:
+Specific
+Measurable
+Achievable
+Relevant
+Time-bound
+
+Para ver cuales son tus KPI una practica es imaginar que tienes un asistente como Siri en tu empresa que mide TODO , entonces que preguntas le quisieras hacer, y en base a esas preguntas puedes deducir tus KPI
+
 ### Reto
 
 Escribe una propuesta de KPIs para:
@@ -589,3 +598,41 @@ Escribe una propuesta de KPIs para:
 - Tu negocio (general de toda la empresa)
 - Tu equipo (más específico de tu área)
 - Ti mismo (uno personal y otro profesional)
+
+Los KPIs que plantearía para una empresa de venta software:
+
+- Clientes nuevos de cada Aplicacion
+- Clientes nuevos obtenidos por los vendedores
+- Clientes nuevos obtenidos por publicidad
+- Cantidad de usuarios activos en las plataformas
+- Features completadas por el equipo de desarrollo categorizadas por complejidad
+- Cargas de trabajo por desarrollador y total de la empresa
+- Cantidad de features que cumplieron con las fechas estimadas y Cantidad de features que se les asigno una fecha estimada
+- Cantidad de asignaciones que los desarrolladores completan antes de la fecha asignada, cuantos justo en la misma fecha y cuantos después o con retraso
+
+## Caso Orbitz: beneficios de una cultura data-driven o basada en datos
+
+Mejora continua basada en visualización de datos y BI
+
+tenemos que hacer projectos, buscar bases de datos publicas para encontrar las historias a contar
+
+Realizar reportes, no todos los Data Visualization llegan a la etapa final de reporte por lo cual es muy importante hacerlo
+
+Muestra tus reportes con los resultados obtenidos
+
+Siempre **Crea Historias**
+
+https://www.youtube.com/watch?v=-I23qGB6JdY
+
+https://platzi.com/cursos/tableau/
+### Reto
+
+Mejora tu Storytelling
+
+## Continúa aprendiendo Data Science, Business Intelligence y Visualización de Datos
+
+https://www.nytimes.com/2004/11/14/business/yourmoney/what-walmart-knows-about-customers-habits.html
+
+https://digital.hbs.edu/platform-digit/submission/big-data-and-retail/
+
+https://business.time.com/2012/06/26/orbitz-shows-higher-prices-to-mac-users/
