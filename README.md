@@ -636,3 +636,7 @@ https://www.nytimes.com/2004/11/14/business/yourmoney/what-walmart-knows-about-c
 https://digital.hbs.edu/platform-digit/submission/big-data-and-retail/
 
 https://business.time.com/2012/06/26/orbitz-shows-higher-prices-to-mac-users/
+
+## Otras notas
+
+tableu es una comunidad grade de visualización de datos y tiene eventos como el iron viz
